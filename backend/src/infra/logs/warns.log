@@ -1,0 +1,5 @@
+{"level":"error","message":"[createConnection] Conexão Recusada:TypeError [ERR_INVALID_URL]: Invalid URL","service":"user-service","timestamp":"2022-07-29T01:25:56.711Z"}
+{"level":"warn","message":"[createClient] Tentativa repetida de cadastro: ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-07-30T00:21:06.650Z"}
+{"level":"warn","message":"[createClient] Tentativa repetida de cadastro: ::1","service":"user-service","timestamp":"2022-07-30T00:27:41.591Z"}
+{"level":"warn","message":"[updatePet] Pet não cadastrado: ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-07-30T06:15:26.961Z"}
+{"level":"warn","message":"[updatePet] Pet não cadastrado: ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-07-30T06:16:11.460Z"}

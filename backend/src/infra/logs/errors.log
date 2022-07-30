@@ -1,0 +1,1 @@
+{"level":"error","message":"[createConnection] Conexão Recusada:TypeError [ERR_INVALID_URL]: Invalid URL","service":"user-service","timestamp":"2022-07-29T01:25:56.711Z"}

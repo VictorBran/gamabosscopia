@@ -1,0 +1,54 @@
+{"level":"error","message":"[createConnection] Conexão Recusada:TypeError [ERR_INVALID_URL]: Invalid URL","service":"user-service","timestamp":"2022-07-29T01:25:56.711Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-29T01:25:56.734Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-29T01:35:20.519Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-29T01:35:20.534Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-29T01:39:17.284Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-29T01:39:17.299Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-29T23:40:11.862Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-29T23:40:11.877Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-29T23:43:39.965Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-29T23:43:39.979Z"}
+{"level":"info","message":"[createClient] Cliente cadastrado: ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-07-29T23:43:44.985Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-29T23:48:31.077Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-29T23:48:31.090Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T00:06:46.601Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-30T00:06:46.616Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T00:09:27.790Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-30T00:09:27.807Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T00:18:35.074Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-30T00:18:35.088Z"}
+{"level":"warn","message":"[createClient] Tentativa repetida de cadastro: ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-07-30T00:21:06.650Z"}
+{"level":"info","message":"[createClient] Cliente cadastrado: ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-07-30T00:21:11.130Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T00:27:01.776Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-30T00:27:01.790Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T00:27:37.854Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-30T00:27:37.867Z"}
+{"level":"warn","message":"[createClient] Tentativa repetida de cadastro: ::1","service":"user-service","timestamp":"2022-07-30T00:27:41.591Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T00:29:16.861Z"}
+{"level":"info","message":"[setup] Teste de configuração executado.","service":"user-service","timestamp":"2022-07-30T00:29:16.866Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T00:45:09.642Z"}
+{"level":"info","message":"[setup] Teste de configuração executado.","service":"user-service","timestamp":"2022-07-30T00:45:09.646Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T00:45:28.618Z"}
+{"level":"info","message":"[setup] Teste de configuração executado.","service":"user-service","timestamp":"2022-07-30T00:45:28.622Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T00:46:48.259Z"}
+{"level":"info","message":"[setup] Teste de configuração executado.","service":"user-service","timestamp":"2022-07-30T00:46:48.264Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T00:47:21.759Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-30T00:47:21.776Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T05:53:43.584Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-30T05:53:43.603Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T05:59:40.770Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-30T05:59:40.785Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T06:01:39.821Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-30T06:01:39.841Z"}
+{"level":"info","message":"[createPet]Pet cadastrado: ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-07-30T06:01:43.172Z"}
+{"level":"info","message":"[editPet] Pet editado: ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-07-30T06:04:48.852Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T06:05:51.125Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-30T06:05:51.144Z"}
+{"level":"info","message":"[editPet] Pet editado: ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-07-30T06:05:58.282Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T06:15:17.506Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-30T06:15:17.523Z"}
+{"level":"warn","message":"[updatePet] Pet não cadastrado: ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-07-30T06:15:26.961Z"}
+{"level":"warn","message":"[updatePet] Pet não cadastrado: ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-07-30T06:16:11.460Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-07-30T06:17:02.414Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-07-30T06:17:02.429Z"}
+{"level":"info","message":"[editPet] Pet editado: ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-07-30T06:17:12.088Z"}
