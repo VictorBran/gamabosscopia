@@ -252,3 +252,5 @@
 {"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-08-03T05:44:55.745Z"}
 {"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-08-03T05:44:55.765Z"}
 {"level":"error","message":"[createPlan]Erro ao criar o plano: ValidationError: pet.1: Cast to [ObjectId] failed for value \"`[ new ObjectId(\"62ea0442178a6c711a0ebbc1\"), 'butao' ]`\" (type string) at path \"pet.1\" because of \"CastError\"-  ::ffff:127.0.0.1","service":"user-service","timestamp":"2022-08-03T05:45:08.983Z"}
+{"level":"info","message":"[createConnection] Conexão com o banco de dados realizada.","service":"user-service","timestamp":"2022-08-03T05:56:03.412Z"}
+{"level":"info","message":"[setup] API em execução.","service":"user-service","timestamp":"2022-08-03T05:56:03.425Z"}

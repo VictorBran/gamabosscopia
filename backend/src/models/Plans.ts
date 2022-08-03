@@ -47,10 +47,12 @@ const plansSchema = new Schema<IPlans>(
             type: Schema.Types.Boolean,
             required: false,
         },
-        pet:[ {
+        pet:[
+             {
             type: Schema.Types.ObjectId,
             ref: "Pets",
-          }],
+          }
+        ],
         
     },
     { timestamps: true }
