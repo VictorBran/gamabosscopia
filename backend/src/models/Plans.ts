@@ -1,8 +1,8 @@
 import { Schema, model } from "mongoose";
-import { IClient } from "./Clients";
+import { IPets } from "./Pets";
 
 export interface IPlans {
-    consultaClinica: boolean; 
+    consultaClinica: boolean;
     vacina: boolean;
     diariaInternacao: boolean;
     emergencia: boolean;
@@ -10,47 +10,48 @@ export interface IPlans {
     coberturaNacional: boolean;
     consultaDomicilio: boolean;
     procedimentosCirurgicos: boolean;
-    cliente: Schema.Types.ObjectId | IClient;
+    pet: Schema.Types.ObjectId[] | IPets[];
 }
 
 const plansSchema = new Schema<IPlans>(
     {
-        consultaClinica:{
+        consultaClinica: {
             type: Schema.Types.Boolean,
-            required: true,
+            required: false,
         },
-        vacina:{
+        vacina: {
             type: Schema.Types.Boolean,
-            required: true,
+            required: false,
         },
-        diariaInternacao:{
+        diariaInternacao: {
             type: Schema.Types.Boolean,
-            required: true,
+            required: false,
         },
-        emergencia:{
+        emergencia: {
             type: Schema.Types.Boolean,
-            required: true,
+            required: false,
         },
-        teleatendimento:{
+        teleatendimento: {
             type: Schema.Types.Boolean,
-            required: true,
+            required: false,
         },
-        coberturaNacional:{
+        coberturaNacional: {
             type: Schema.Types.Boolean,
-            required: true,
+            required: false,
         },
-        consultaDomicilio:{
+        consultaDomicilio: {
             type: Schema.Types.Boolean,
-            required: true,
+            required: false,
         },
-        procedimentosCirurgicos:{
+        procedimentosCirurgicos: {
             type: Schema.Types.Boolean,
-            required: true,
+            required: false,
         },
-        cliente: {
+        pet:[ {
             type: Schema.Types.ObjectId,
-            ref: "Client",
-          },
+            ref: "Pets",
+          }],
+        
     },
     { timestamps: true }
 )

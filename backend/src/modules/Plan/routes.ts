@@ -3,7 +3,8 @@ import controller from "./controller";
 
 const routes = Router();
 
-routes.get("/novoPlano", controller.createPlan );
-routes.put("/atualizarPlano", );
+routes.get("/lista-plano/:id", controller.getPlans )
+routes.post("/novo-plano/:id/", controller.createPlan );
+routes.put("/atualizar-plano/:id", controller.editPlan );
 
 export default routes;

@@ -4,6 +4,7 @@ import { IImages } from "./Images";
 export interface IPets {
     nome: string;
     dono: string;
+    raca: string;
     idade: string;
     peso: string;
     images?: Schema.Types.ObjectId[] | IImages[];
@@ -15,6 +16,10 @@ const petSchema = new Schema<IPets>({
         required: true,
       },
       dono:{
+        type: Schema.Types.String,
+        required: true,
+      },
+      raca:{
         type: Schema.Types.String,
         required: true,
       },
